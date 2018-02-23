@@ -18,6 +18,7 @@ public class B34Cr7Projet284 {
         // TODO code application logic here
         
         System.out.println("Projet du groupe 284");
+        // commentaire pour vérifier le commit
     }
     
 }
