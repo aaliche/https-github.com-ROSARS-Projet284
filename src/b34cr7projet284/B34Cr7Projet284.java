@@ -19,6 +19,7 @@ public class B34Cr7Projet284 {
         
         System.out.println("Projet du groupe 284");
         // commentaire pour vérifier le commit
+         int i =0;
     }
     
 }
