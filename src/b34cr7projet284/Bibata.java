@@ -11,6 +11,7 @@ package b34cr7projet284;
  */
 public class Bibata {
     private String nom;
+    private String prenom;
     
     
     
