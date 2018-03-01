@@ -21,9 +21,11 @@ public class B34Cr7Projet284 {
         // commentaire pour vérifier le commit
          int i =0;
          int j = 3;
-
-        
+       
         System.out.println("Projet du groupe 284");
+        //Modification faite par Bibata
+        System.out.println("Bibata Amidou, Analyste Programmeur");
+        
     }
     
 }
