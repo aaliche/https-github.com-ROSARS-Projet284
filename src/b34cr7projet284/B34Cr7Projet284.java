@@ -24,6 +24,9 @@ public class B34Cr7Projet284 {
 
         
         System.out.println("Projet du groupe 284");
+        //Modification faite par Bibata
+        System.out.println("Bibata Amidou, Analyste Programmeuse");
+        
     }
     
 }
