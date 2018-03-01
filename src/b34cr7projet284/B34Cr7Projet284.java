@@ -25,5 +25,4 @@ public class B34Cr7Projet284 {
         
         System.out.println("Projet du groupe 284");
     }
-    
-}
+ }
